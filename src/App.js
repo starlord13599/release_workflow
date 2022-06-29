@@ -8,7 +8,7 @@ function App() {
 	return (
 		<BrowserRouter>
 			<Routes />
-			{/* <Toaster {...TOAST_CONFIGS} children={CustomToaster} /> */}
+			<Toaster {...TOAST_CONFIGS} children={CustomToaster} />
 		</BrowserRouter>
 	);
 }
