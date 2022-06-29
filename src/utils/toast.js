@@ -1,6 +1,6 @@
 import { ToastBar, toast } from 'react-hot-toast';
 export const TOAST_CONFIGS = {
-	position: 'top-left',
+	position: 'top-center',
 };
 
 //use the below function to use your own modified version
